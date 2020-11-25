@@ -1,8 +1,8 @@
 {
-  "versionName": "Update 1.67",
-  "versionCode": "1",
+  "versionName": "Update 1.68",
+  "versionCode": "2",
   "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
   "release": [
-    "- Add voice search for movies and tvshows"
+    "- Add Trakt.tv (View your Collection and Watchlist in both movies and tv shows. Sync on first start).\r\n- Fixed popular tv shows not scrolling through integer page count.\r\n- Fixed voice search on tv show search.\r\n- Add more hosters/limited ReleaseBB scraper.\r\n"
   ]
 }
