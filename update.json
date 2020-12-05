@@ -1,8 +1,8 @@
 {
-  "versionName": "Update 1.69",
-  "versionCode": "3",
+  "versionName": "Update 1.70",
+  "versionCode": "4",
   "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
   "release": [
-    "- Trakt is now stable.\r\n- Fixed crash when searching for links.\r\n- Added option for Trakt users to sort Trakt watchlist by Rank, Title, Added, or Release.\r\n- Added tag to identify 4K links.\r\n- Added more providers/resolvers.\r\n- Christmas theme, Happy Holidays From Morpheus Team!!\r\n"
+    "- Add All-Debrid, Premium service which will offer more links.\r\n- Add back ReleaseBB. THIS USES HIGH THREAD COUNT SO TURN OFF IN SETTINGS IF YOU EXPERIENCE CRASHING DURING LINK SEARCH.\r\n- Add option to turn off ReleaseBB provider..\r\n- Fixed search issues.\r\n- Add Real Debrid and All Debrid premium hosters, Generic, Turbobit, UsersCloud, FileFactory,  NitroFlare, Click upload, and many more.\r\n- Happy Holidays From Morpheus Team!!\r\n"
   ]
 }
