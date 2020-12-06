@@ -1,8 +1,8 @@
 {
-  "versionName": "Update 1.71",
-  "versionCode": "5",
+  "versionName": "Update 1.72",
+  "versionCode": "6",
   "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
   "release": [
-    "- Add All-Debrid, Premium service which will offer more links.\r\n- Add back ReleaseBB. THIS USES HIGH THREAD COUNT SO TURN OFF IN SETTINGS IF YOU EXPERIENCE CRASHING DURING LINK SEARCH.\r\n- Add option to turn off ReleaseBB provider..\r\n- Fixed search issues.\r\n- Fixed wrong tv show when searching for links.\r\n- Add Real Debrid and All Debrid premium hosters, Generic, Turbobit, UsersCloud, FileFactory,  NitroFlare, Click upload, and many more.\r\n- Happy Holidays From Morpheus Team!!\r\n"
+    "- Link app to firebase, for more server functions and debugging purposes.\r\n- Add Auto Play, Play movies/series without having to select a link.\r\n- Improve built in player.\r\n- Fixed issue with users not able to connect to a certain site, by removing the user agent.\r\n- Happy Holidays From Morpheus Team!!\r\n"
   ]
 }
