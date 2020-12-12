@@ -3,6 +3,6 @@
   "versionCode": "7",
   "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
   "release": [
-    "- Add option: Show Real-Debrid links only\r\n- Add option for users to customize auto play time (in seconds)\r\n- Fix small issues\r\n- Updated some external libraries\r\n- Happy Holidays From Morpheus Team!!\r\n"
+    "- Add option: Show Real-Debrid links only. This will greatly improve auto play if you have RD account\r\n- Add option for users to customize auto play time (in seconds)\r\n- Fix small issues\r\n- Updated some external libraries\r\n- Happy Holidays From Morpheus Team!!\r\n"
   ]
 }
