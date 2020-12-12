@@ -1,8 +1,8 @@
 {
-  "versionName": "Update 1.72",
-  "versionCode": "6",
+  "versionName": "Update 1.73",
+  "versionCode": "7",
   "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
   "release": [
-    "- Link app to firebase, for more server functions and debugging purposes.\r\n- Add Auto Play, Play movies/series without having to select a link.\r\n- Improve built in player.\r\n- Fixed issue with users not able to connect to a certain site, by removing the user agent.\r\n- Happy Holidays From Morpheus Team!!\r\n"
+    "- Add option: Show Real-Debrid links only\r\n- Add option for users to customize auto play time (in seconds)\r\n- Fix small issues\r\n- Updated some external libraries\r\n- Happy Holidays From Morpheus Team!!\r\n"
   ]
 }
