@@ -1,8 +1,8 @@
 {
-  "versionName": "Update 1.74",
-  "versionCode": "8",
+  "versionName": "Update 1.75",
+  "versionCode": "9",
   "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
   "release": [
-    "- Users can now play trailers (Long click on movie/tv series)\r\n- Sign into trakt.tv without going to into settings (click on a trakt icon)\r\n- Add Aparat Hoster for Watchepisodes, Swatchseries provider returns, and more hosters supported for All-Debrid \r\n- Forcibly remove notification bar on phones when landscape mode\r\n- Fixed issues with autoplay\r\n- Updated theme of the app!\r\n- Replaced Downloads with local Reminders, which will come soon!\r\n- Happy Holidays From Morpheus Team!!\r\n"
+    "- Introducing!- Glide Cache, this will cache image data into your memory. Image data will load more faster, as it won't make request every time for a new image/backdrop.\r\n- Fix banner not showing on new Firestick devices\r\n- Set user agent for Jsoup, this will fix some devices not scraping/finding links\r\n- Add option: Clear Glide Cache, make sure to clear it every week or a couple of days throughout the week as TMDB updates images\r\n- Happy Holidays From Morpheus Team!!\r\n"
   ]
 },<
