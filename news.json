@@ -10,13 +10,13 @@
     {
       "ID":"2",
       "IMPORTANT":false,
-      "TITLE":"Real-Debrid.",
+      "TITLE":"Real-Debrid",
       "CONTENT":"You can integrate Real-Debrid with Morpheus TV. \r\nMorpheus TV only uses hosters for users to stream\r\n\r\nYou may use a vpn with Real-Debrid, but it has to be verified by Real-Debrid themselves.\r\n\r\nReal-Debrid integration for now is limited to just a few hosters like Clipwatching, Vidlox, Vidoza, and a few more.\r\n\r\nAfter selecting a RD source, some metadata will be unrestricted which includes the first and last pieces of the video file and this process can take a few seconds or minutes depending on the speed of your connection. Morpheus TV will always check RD files first before unrestricted it automatically. This will help not bombarding RD servers."    
     },
     {
       "ID":"3",
       "IMPORTANT":false,
-      "TITLE":"All-Debrid.",
+      "TITLE":"All-Debrid",
       "CONTENT":"You can integrate All-Debrid with Morpheus TV. \r\nMorpheus TV only uses hosters for users to stream\r\n\r\nYou may use a vpn with AD, but it has to be verified by AD themselves.\r\n\r\nAD integration for now is limited to just a few hosters like Clipwatching, Vidlox, Vidoza, and a few more.\r\n\r\nAfter selecting a AD source, some metadata will be unrestricted which includes the first and last pieces of the video file and this process can take a few seconds or minutes depending on the speed of your connection."    
 
     },
