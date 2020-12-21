@@ -1,0 +1,42 @@
+{
+  "entries":  
+  [
+    {
+      "ID":"1",
+      "IMPORTANT":false,
+      "TITLE":"Disclaimer",
+      "CONTENT":"The author does not host or upload any of the content of the app. \r\n\r\nAll content is retrieved from third-party websites like Trakt.tv, TMDB, Imdb,Openload, Streamango, Google, TheVideo, Vidup, Vidoza, etc..\r\n\r\nThe author does not have any affiliation with the content providers and is not responsible for the content they provide.\r\n\r\nTo know more about the app, check the \"Information\" section on the main menu.\r\n"    
+    },
+    {
+      "ID":"2",
+      "IMPORTANT":false,
+      "TITLE":"Real-Debrid.",
+      "CONTENT":"You can integrate Real-Debrid with Morpheus TV. \r\nMorpheus TV only uses hosters for users to stream\r\n\r\nYou may use a vpn with Real-Debrid, but it has to be verified by Real-Debrid themselves.\r\n\r\nReal-Debrid integration for now is limited to just a few hosters like Clipwatching, Vidlox, Vidoza, and a few more.\r\n\r\nAfter selecting a RD source, some metadata will be unrestricted which includes the first and last pieces of the video file and this process can take a few seconds or minutes depending on the speed of your connection. Morpheus TV will always check RD files first before unrestricted it automatically. This will help not bombarding RD servers."    
+    },
+    {
+      "ID":"3",
+      "IMPORTANT":false,
+      "TITLE":"All-Debrid.",
+      "CONTENT":"You can integrate All-Debrid with Morpheus TV. \r\nMorpheus TV only uses hosters for users to stream\r\n\r\nYou may use a vpn with AD, but it has to be verified by AD themselves.\r\n\r\nAD integration for now is limited to just a few hosters like Clipwatching, Vidlox, Vidoza, and a few more.\r\n\r\nAfter selecting a AD source, some metadata will be unrestricted which includes the first and last pieces of the video file and this process can take a few seconds or minutes depending on the speed of your connection."    
+
+    },
+    {
+      "ID":"4",
+      "IMPORTANT":false,
+      "TITLE":"Genres",
+      "CONTENT":"Morpheus TV integrates with TMDB and allows you to choose different genres.\r\n\r\nAfter clicking any genre, the app will make a few connections, then load up your genre choice.\r\n\r\nIn the future there will be custom genres created by the developer of Morpheus TV."    
+    },
+    {
+      "ID":"5",
+      "IMPORTANT":false,
+      "TITLE":"About",
+      "CONTENT":"MorpheusTV is a free app without any ads or subscription plans.\r\nIt searches several free and public websites for streaming links and displays the results in simple interface navigateable with a DPAD remote control without the need for a mouse or keyboard.\r\n\r\nAll movie and tvshow metadata is retrieved from TMDB, posters and backdrops are retrieved from TMDB also.\r\nAll links scraped by the app are available to the public in their respective websites and are hosted by third-party services like Clipwatching, Vidlox, Google, Aparat, Upstream, Vidoza, etc..\r\n\r\nIt has some integration with your Trakt.tv account but for now it is limited to Collections and Watchlist.\r\n\r\nIt uses its own internal player (Exoplayer with some modifications)\r\nIn the first versions it used external players like VLC and MxPlayer but they were quickly dismissed because of the lack of control over the UI and the HTTP request headers.\r\nThere may or may not be ads, the future will decide that.\r\n\r\nMorpheus TV is not meant to be a competitor to any other app like some youtubers are claiming.\r\nI actually do not care what other app have as in features. This is the first and best app i have ever made. No need to copy other app's features. This is what makes my unique!\r\nAfter OG Morpheus TV died, i thought to myself, that i can make an app just like it. After many months of making this app. It's now perfect. I made this app for myself."    
+    },
+    {
+      "ID":"6",
+      "IMPORTANT":false,
+      "TITLE":"Support",
+      "CONTENT":"Morpheus TV is just a hobby project (same as OG developer). There are NO official support groups. The REDDIT group is FALSE. I am nowhere to be found, Please don't be tricked by this group.\r\n\r\nThere are NO official websites, sub-reddits or facebook groups.\r\nBeware of websites that claim to be \"official\" because they are not and you might end up installing an APK loaded with malware.\r\n\r\nMy website is the only safe place to install the APK."    
+    }  
+  ]
+}
