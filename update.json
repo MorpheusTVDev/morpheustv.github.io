@@ -1,8 +1,8 @@
 {
-  "versionName": "Update 1.76",
-  "versionCode": "10",
+  "versionName": "Update 1.77",
+  "versionCode": "11",
   "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
   "release": [
-    "- Bug Fix: Fixed no links \r\n- More links for All-Debrid users\r\n- Add option: Change number of threads running at same time\r\n- Add option: Show season special or hide it. \r\n- If all major bugs are fixed, this will be the last update for this year. Have a safe holiday, Merry Christmas  from our team to your family!!🎄\r\n"
+    "- New: Add genres provided by TMDB\r\n- Changed ui, to fit genres\r\n- Updated Information, make sure to read carefully. This is the main part for this update.\r\n- Have a safe holiday, Merry Christmas from our team to your family!!⛄🎅🤶🎄\r\n"
   ]
-},
+},<
