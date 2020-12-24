@@ -1,15 +1,8 @@
 {
-
-  "versionName": "Update 1.77",
-
-  "versionCode": "11",
-
+  "versionName": "Update 1.78",
+  "versionCode": "12",
   "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
-
   "release": [
-
-    "- New: Add genres provided by TMDB\r\n- Changed ui, to fit genres\r\n- Updated Information, make sure to read carefully. This is the main part for this update.\r\n- Have a safe holiday, Merry Christmas from our team to your family!!⛄🎅🤶🎄\r\n"
-
+    "- New: Debrid Cloud, watch all your torrents from your Real-Debrid cloud, right from Morpheus TV.\r\n- New: App will now sort quality by default. This will be good for Real Debrid users that uses autoplay.\r\n- New: New movie and tv notifications right from your phone\r\n- Added progress bar/message when searching\r\n- Have a safe holiday, Merry Christmas from our team to your family!!⛄🎅🤶🎄\r\n"
   ]
-
 },
