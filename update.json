@@ -1,8 +1,8 @@
 {
-  "versionName": "Update 1.78",
+  "versionName": "Update 1.79",
   "versionCode": "12",
   "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
   "release": [
-    "- New: Debrid Cloud, watch all your torrents from your Real-Debrid cloud, right from Morpheus TV.\r\n- New: App will now sort quality by default. This will be good for Real Debrid users that uses autoplay.\r\n- New: New movie and tv notifications right from your phone\r\n- Added progress bar/message when searching\r\n- Have a safe holiday, Merry Christmas from our team to your family!!⛄🎅🤶🎄\r\n"
+    "- New: Server side scrapers now. Me and the team can now add/fix them without updating app to fix them. App will go full server side in the next upcoming updates.\r\n\r\n- Cached Torrent Support.\r\n\r\n- Add option: Sort by seasons/episodes by Newest to Oldest\r\n\r\n- Me and the team have been looking for providers and we have found many. Real-Debrid/All-Debrid users will love this update\r\n\r\n- Add option: Users set an user agent. This is a new invisible webview engine. It's automatically on and set. Read instructions in settings to configure this correctly.\r\n.\r\n"
   ]
 },
