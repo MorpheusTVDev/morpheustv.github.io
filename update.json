@@ -1,9 +1,3 @@
-
-
- 1.  Turn on MinifyEnabled in build Gradle
-
- 2.  Change Debug mode to Release mode
-
 {
   "versionName": "Update 1.80",
   "versionCode": "14",
