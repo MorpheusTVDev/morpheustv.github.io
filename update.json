@@ -1,8 +1,14 @@
+
+
+ 1.  Turn on MinifyEnabled in build Gradle
+
+ 2.  Change Debug mode to Release mode
+
 {
   "versionName": "Update 1.80",
   "versionCode": "14",
   "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
   "release": [
-    "- New: Due to over 50k active users every day, our servers just can't handle the load. Now we introduce Premium, some features will go under paid in this version, so we can buy better servers and to keep our developer team interested in this project.\r\n\r\n- Free account until server testing is done from our end. Email: test123@gmail.com Password: test123\r\n\r\n- New VIP Feature: Sort links by hoster\r\n\r\n- Now app will maintain focus on mobile device. Once you click on a item, red drawable shall keep focused until pressed on another item.\r\n"
+    "- New: Due to over 50k active users every day, our servers just can't handle the load. Now we introduce Premium, some features will go under paid in this version, so we can buy better servers and to keep our developer team interested in this project.\r\n\r\n- New VIP Feature: Sort links by hoster\r\n\r\n- Now app will maintain focus on mobile device. Once you click on a item, red drawable shall keep focused until pressed on another item.\r\n"
   ]
 },
