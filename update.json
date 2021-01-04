@@ -1,8 +1,8 @@
 {
-  "versionName": "Update 1.80",
-  "versionCode": "14",
+  "versionName": "Update 1.81",
+  "versionCode": "15",
   "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
   "release": [
-    "- New: Due to over 50k active users every day, our servers just can't handle the load. Now we introduce Premium, some features will go under paid in this version, so we can buy better servers and to keep our developer team interested in this project.\r\n\r\n- New VIP Feature: Sort links by hoster\r\n\r\n- Now app will maintain focus on mobile device. Once you click on a item, red drawable shall keep focused until pressed on another item.\r\n"
+    "- Me and the team would like to thank everyone that has purchased Premium. This will improve our server speed and alot more features are still to come! We still have many spots available, hurry before they are all gone!\r\n\r\n- New VIP Feature: View your Real-Debrid Downloads and play them right from Morpheus TV! \r\n\r\n- Add 1 new Real-Debrid provider for free users, Typhoon.DL. \r\n\r\n- Add subscription options for premium users\r\n\r\n- Add option to shuffle genres by random order. \r\n\r\n- Fixed auto play, if app chose RD link , progress dialog would loop.\r\n\r\n- Scraping improved. \r\n\r\n- Fixed issue with Firestick/old android box crash when searching for links. \r\n\r\n- Fixed issue with jsoup user agent not working\r\n"
   ]
 },
