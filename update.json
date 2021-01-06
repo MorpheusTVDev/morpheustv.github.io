@@ -1,7 +1,7 @@
 
 {
   "versionName": "Update 1.82",
-  "versionCode": "16",
+  "versionCode": "15",
   "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
   "release": [
     "- New: Use all Morpheus TV clones as a theme, right inside the app! Go to Settings -> General and set your favorite Morpheus TV clone theme! Cuddos to these app modders\r\n\r\n- Fix some bugs\r\n\r\n- Backend cleanup.\r\n"
