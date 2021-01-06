@@ -1,8 +1,9 @@
+
 {
-  "versionName": "Update 1.81",
-  "versionCode": "15",
+  "versionName": "Update 1.82",
+  "versionCode": "16",
   "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
   "release": [
-    "- Me and the team would like to thank everyone that has purchased Premium. This will improve our server speed and alot more features are still to come! We still have many spots available, hurry before they are all gone!\r\n\r\n- New VIP Feature: View your Real-Debrid Downloads and play them right from Morpheus TV! \r\n\r\n- Add 1 new Real-Debrid provider for free users, Typhoon.DL. \r\n\r\n- Add subscription options for premium users\r\n\r\n- Add option to shuffle genres by random order. \r\n\r\n- Fixed auto play, if app chose RD link , progress dialog would loop.\r\n\r\n- Scraping improved. \r\n\r\n- Fixed issue with Firestick/old android box crash when searching for links. \r\n\r\n- Fixed issue with jsoup user agent not working\r\n"
+    "- New: Use all Morpheus TV clones as a theme, right inside the app! Go to Settings -> General and set your favorite Morpheus TV clone theme! Cuddos to these app modders\r\n\r\n- Fix some bugs\r\n\r\n- Backend cleanup.\r\n"
   ]
 },
