@@ -1,7 +1,7 @@
 {
   "versionName": "Update 2.00",
   "versionCode": "20",
-  "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
+  "url": "https://github.com/MorpheusTVDev/morpheustv.github.io/blob/main/morpheustv.apk?raw=true",
   "release": [
     "- New: Rewritten Morpheus TV with fresh new code, expect faster speeds\r\n\r\n- Add disc instead of poster by fanart.tv\r\n\r\n- Remove and add new providers\r\n\r\n- Filter quality of link now\r\n"
   ]
