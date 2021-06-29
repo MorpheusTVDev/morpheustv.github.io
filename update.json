@@ -1,8 +1,8 @@
 {
-  "versionName": "Update 1.84",
-  "versionCode": "18",
+  "versionName": "Update 2.00",
+  "versionCode": "20",
   "url": "https://github.com/MorpheusTVDev/morpheustv/blob/main/MorpheusTV.apk?raw=true",
   "release": [
-    "- New: Customize Free, Real-Debrid, and All- Debrid links color\r\n\r\n- Improved identification of quality and filename on a few resolvers\r\n\r\n- More backend cleanup\r\n"
+    "- New: Rewritten Morpheus TV with fresh new code, expect fsster speeds\r\n\r\n- Add disc instead of poster by fanart.tv\r\n\r\n- Remove and add new providers\r\n\r\n- Filter quality of link now\r\n"
   ]
 },
