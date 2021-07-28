@@ -1,8 +1,8 @@
 {
-  "versionName": "Update 2.03",
-  "versionCode": "23",
+  "versionName": "Update 2.04",
+  "versionCode": "24",
   "url": "https://github.com/MorpheusTVDev/morpheustv.github.io/blob/main/morpheustv.apk?raw=true",
   "release": [
-    "- New: More links for vip users (Real Debrid needed)\r\n\r\n- Direct download: https://tinyurl.com/hvd7n4 \r\n\r\n- Fix tv shows not being selected and genres bugging out\r\n\r\n- Important: New way to purchase premium now! Site: https://gum.co/JbBnd"
+    "- Direct download: https://tinyurl.com/hvd7n4\r\n\r\n-  \r\n\r\n- Fixed downloading issue\r\n\r\n- Fixed crash on some users"
   ]
 },
