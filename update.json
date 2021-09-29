@@ -1,6 +1,6 @@
 {
-  "versionName": "Update 2.12",
-  "versionCode": "32",
+  "versionName": "Update 2.13",
+  "versionCode": "33",
   "url": "https://github.com/MorpheusTVDev/morpheustv.github.io/blob/main/morpheustv.apk?raw=true",
   "release": [
     "- Huge update, update needed!\r\n\r\n- Fix many issues in last version!\r\n\r\n- Fix issues some users were experiencing with crashing\r\n\r\n- Import new database centers"
