@@ -1,8 +1,8 @@
 {
-  "versionName": "Update 2.15",
-  "versionCode": "35",
+  "versionName": "Update 2.16",
+  "versionCode": "36",
   "url": "https://github.com/MorpheusTVDev/morpheustv.github.io/blob/main/morpheustv.apk?raw=true",
   "release": [
-    "- New way to get Morpheus TV premium!\r\n\r\n- Fix many issues in last version!\r\n\r\n- Fix issues some users were experiencing with crashing\r\n\r\n- Import new database centers"
+    "- Fixed a major bug when finding links\r\n\r\n- Fixed the linking to Trakt.tv\r\n\r\n- Fix issues some users were experiencing with crashing\r\n\r\n- Import new database centers"
   ]
 },
